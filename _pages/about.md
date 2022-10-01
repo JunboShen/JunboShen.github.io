@@ -12,12 +12,13 @@ I am a computer science major student. I have spent first 2 years at CUHK and tr
 
 Research Interests
 ======
-I am not so sure up to this point. Machine learning is something that interests me a lot. I have joined a bioinformatics research project that uses deep learning methods to analyze protein sequences. Endless nights have been spent reading and running codes. But I am not very motivated and only read papers if asked to. Guess a lot about me needs to be changed if I really want to do research in the future.
+I am not so sure up to this point. Machine learning is something that interests me a lot. I have joined a bioinformatics research project that uses deep learning methods to analyze protein sequences. Protein sequences are simply strings consist of different alphabets. It is a NLP problem. Endless nights have been spent reading and running codes. But I am not very motivated and only read papers if asked to. Guess a lot needs to be changed if I really want to do research in the future. 
 
 Personality
 ------
 INTP, I am a typical introverted type of person. I prefer solitary for most of the time in the day. I am kind of having a social phobia. But not getting in touch with other people all day long makes me demotivated. That’s why I go to libraries quite often. 
-I am a night owl and a coffeeholic.
+
+I am also a night owl and a coffeeholic.
 
 For more info
 ------
