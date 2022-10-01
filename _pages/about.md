@@ -17,7 +17,8 @@ I am not so sure up to this point. Machine learning is something that interests 
 Personality
 ------
 INTP, I am a typical introverted type of person. I prefer solitary for most of the time in the day. I am kind of having a social phobia. But not getting in touch with other people all day long makes me demotivated. That’s why I go to libraries quite often. 
+I am a night owl and a coffeeholic.
 
 For more info
 ------
-I am always grateful to anyone who was kind to me or has helped me in my life. Thus I am willing to offer my own help to others. Please feel free to contact me if you have trouble academically or have any problems that my limited experience can help with.
+I am always grateful to anyone who was kind to me or has helped me in my life. Thus I am willing to offer my own help to others. Please feel free to contact me if you have trouble academically or have any problems that my limited experience can help to solve.
