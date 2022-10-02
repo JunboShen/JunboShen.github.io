@@ -8,14 +8,16 @@ tags:
 
 Some anime series I have enjoyed, and are not stupied to watch.
 
-NOt a ranking
+Not a ranking
 ======
 物語シリーズ
 ------
 Really like the unique style of this anime series. A lot of talking. 
+
 ![alt text](https://upload.wikimedia.org/wikipedia/zh/a/aa/Monogatari_Series_Second_Season_Logo.jpg)
+
 It is a very long series. There are also many books, but I only watch the anime. 
-[Order for watching][https://mag.app-liv.jp/archive/131234/#627757]
+[Order for watching](https://mag.app-liv.jp/archive/131234/#627757)
 Clannad
 ------
 Pretty touching. Great songs.. 
