@@ -18,6 +18,7 @@ Really like the unique style of this anime series. A lot of talking.
 
 It is a very long series. There are also many books, but I only watch the anime. 
 [Order for watching](https://mag.app-liv.jp/archive/131234/#627757)
+
 Clannad
 ------
 Pretty touching. Great songs.. 
