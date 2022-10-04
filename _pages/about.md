@@ -12,7 +12,9 @@ I am a computer science major student. I have spent first 2 years at CUHK and tr
 
 Research Interests
 ======
-I am not so sure up to this point. Machine learning is something that interests me a lot. I have joined a bioinformatics research project that uses deep learning methods to analyze protein sequences. Protein sequences are simply strings consist of different alphabets. It is a NLP problem. Endless nights have been spent reading and running codes. But I am not very motivated and only read papers if asked to. Guess a lot needs to be changed if I really want to do research in the future. 
+I have some experience in Machine learning. I have joined a bioinformatics research project at CUHK that uses deep learning methods to analyze protein sequences. Protein sequences are simply strings consist of different alphabets. It is a NLP problem. Endless nights have been spent reading and running codes. But I am not very motivated and only read papers if asked to. This is something about me that I want to change in the future. 
+
+I did an UG Summer Research Internship at year1. It's about smart & automated aquaponics system[🟣](files/Smart Garden.pptx)[🔷](files/Summary.docx). 
 
 Personality
 ------
