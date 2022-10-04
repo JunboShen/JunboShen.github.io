@@ -22,4 +22,4 @@ I am also a night owl and a coffeeholic.
 
 For more info
 ------
-I am always grateful to anyone who was kind to me or has helped me in my life. Thus I am willing to offer my own help to others. Please feel free to contact me if you have trouble academically or have any problems that my limited experience can help to solve.
+Please feel free to contact me if you have troubles that my limited experience can help to solve.
