@@ -16,6 +16,7 @@ I have some experience in Machine learning. I have joined a bioinformatics resea
 
 I did an UG Summer Research Internship at year1. It's about smart & automated aquaponics system.[🟣](https://drive.google.com/file/d/1ueTK1Te-ViMV46YraC8PchIbfYLkWW8z/view?usp=sharing)
 [🟩](https://docs.google.com/presentation/d/1Y3O0WjN6x09mFBbWYeZV6hCMEbzuyq6x/edit?usp=sharing&ouid=100791604351180704102&rtpof=true&sd=true)[🔷](https://docs.google.com/document/d/1Xu-JIdmGhu4Sik6bgjiJxRRYdh44P1x3/edit?usp=sharing&ouid=100791604351180704102&rtpof=true&sd=true)
+
 Personality
 ------
 INTP, I am a typical introverted type of person. I prefer solitary for most of the time in the day. I am kind of having a social phobia. But not getting in touch with other people all day long makes me demotivated. That’s why I go to libraries quite often. 
