@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computer science major student. I have spent first 2 years at CUHK and transferred to WashU to continue my undergraduate study. 
 
-Research Interests
+Research & Projects
 ======
 I have some experience in Machine learning. I have joined a bioinformatics research project at CUHK that uses deep learning methods to analyze protein sequences. Protein sequences are simply strings consist of different alphabets. It is a NLP problem. Endless nights have been spent reading and running codes. But I am not very motivated and only read papers if asked to. This is something about me that I want to change in the future. 
 
