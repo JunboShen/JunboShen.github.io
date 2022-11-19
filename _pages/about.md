@@ -24,4 +24,4 @@ I am also a night owl and a coffeeholic.
 
 For more info
 ------
-Please feel free to contact me if you have troubles that my limited experience can help to solve.
+Please feel free to contact me. 
