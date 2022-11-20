@@ -12,7 +12,7 @@ I am a computer science major student. I have spent first 2 years at CUHK and tr
 
 Research & Projects
 ======
-I have some experience in Machine learning. I have joined a bioinformatics research project at CUHK that uses deep learning methods and pre-trained language models to analyze protein sequences and structures. Protein sequences can be described using different alphabets. NLP methods can be applied to to solve existing problems in bioinformatics and computational biology.
+I have some experience in Machine learning. I have joined a bioinformatics research project at CUHK that uses deep learning methods and pre-trained language models to analyze protein sequences and structures. Protein sequences can be described using different alphabets. NLP methods can be applied to solve existing problems in bioinformatics and computational biology.
 
 I also did an interesting Summer Research Internship and student helper work at 2021. It's about smart & automated aquaponics system.[🟣](https://drive.google.com/file/d/1ueTK1Te-ViMV46YraC8PchIbfYLkWW8z/view?usp=sharing)[🟩](https://docs.google.com/presentation/d/1Y3O0WjN6x09mFBbWYeZV6hCMEbzuyq6x/edit?usp=sharing&ouid=100791604351180704102&rtpof=true&sd=true)[🔷](https://docs.google.com/document/d/1Xu-JIdmGhu4Sik6bgjiJxRRYdh44P1x3/edit?usp=sharing&ouid=100791604351180704102&rtpof=true&sd=true)
 
