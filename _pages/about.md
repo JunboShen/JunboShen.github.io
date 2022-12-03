@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science major student. I have spent first 2 years at the Chinese University of Hong Kong and transferred to WashU to continue my undergraduate study. 
+I am a computer science major student. I have spent first 2 years at the Chinese University of Hong Kong (CUHK) and transferred to WashU to continue my undergraduate study. 
 
 Research & Projects
 ======
