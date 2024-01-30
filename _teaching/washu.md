@@ -8,11 +8,16 @@ date: 2023-01-01
 location: "St. Louis, MO"
 ---
 
-CSE514A, Data Mining, Jan. 2024 -- Present
-======
+CSE514A, CSE412A, CSE442T
 
-CSE412A, Introduction to Artificial Intelligence, Aug. 2023 -- Dec.2023
+CSE514A, Data Mining
 ======
+Jan. 2024 -- Present
 
-CSE442T, Introduction to Cryptography, Jan. 2023 -- May. 2023
+CSE412A, Introduction to Artificial Intelligence
 ======
+Aug. 2023 -- Dec.2023
+
+CSE442T, Introduction to Cryptography
+======
+Jan. 2023 -- May. 2023
