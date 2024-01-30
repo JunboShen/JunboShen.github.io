@@ -17,8 +17,8 @@ Deep Learning, Bioinformatics, AI for Healthcare.
 
 Publications (*equal contribution, #corresponding)
 ======
-Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model[Full text]
-J.Shen*, Q.Yu*, S.Chen*, Q.Tan, J.Li, Y.Li#  Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB)
+<span style="color:blue;">Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model > </span>
+J.Shen*, Q.Yu*, S.Chen*, Q.Tan, J.Li, Y.Li#  Nature Computational Science, 2023. [<span style="color:blue;">Full text</span>](https://rdcu.be/dtupB)
 
 For more info
 ------
