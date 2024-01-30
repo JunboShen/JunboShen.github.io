@@ -1,7 +1,7 @@
 ---
 title: "Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/uspnet
 excerpt: 
 date: 2023-12-13
 venue: 'Nature Computational Science'
