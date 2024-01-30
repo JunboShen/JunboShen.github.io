@@ -9,6 +9,7 @@ location: "St. Louis, MO"
 ---
 
 CSE514A, CSE412A, CSE442T
+======
 
 CSE514A, Data Mining
 ======
