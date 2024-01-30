@@ -18,7 +18,7 @@ Publications (*equal contribution, #corresponding)
 ======
 <span style="color:blue;">Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model </span>
 
-J.Shen*, Q.Yu*, S.Chen*, Q.Tan, J.Li, Y.Li#  Nature Computational Science, 2023. [<span style="color:blue;">Full text </span>](https://rdcu.be/dtupB)
+Junbo Shen*, Qinze Yu*, Shenyang Chen*, Qingxiong Tan, Jingchen Li, Yu Li#  Nature Computational Science, 2023. [<span style="color:blue;">Full text </span>](https://rdcu.be/dtupB)
 
 For more info
 ------
