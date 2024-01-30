@@ -10,8 +10,11 @@ redirect_from:
 
 I am a computer science major student. I have spent first 2 years at the Chinese University of Hong Kong (CUHK) and transferred to WashU to continue my undergraduate study. 
 
-Research & Projects
+Research Interests
 ======
+Deep Learning, Bioinformatics, AI for Healthcare.
+
+
 I have some experience in Machine learning. Beginning in 2022.6, I worked on a bioinformatics research project at CUHK that uses deep learning methods and pre-trained language models to analyze protein sequences and structures. The purpose of the project is to construct a predictor to identify proteins containing signal peptides (with 5 different types), a short peptide (usually 16-30 amino acids long) of most newly synthesized proteins that are destined toward the secretory pathway. Protein sequences can be described using strings of letters, according to the order of the amino acids. NLP methods can be applied to solve existing problems in bioinformatics and computational biology.
 
 I also did an interesting Summer Research Internship and student helper work at 2021. It's about smart & automated aquaponics system.[🟣](https://drive.google.com/file/d/1ueTK1Te-ViMV46YraC8PchIbfYLkWW8z/view?usp=sharing)
