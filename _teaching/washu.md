@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assitant"
+title: "Teaching Assistant"
 collection: teaching
 type: "Grading, Office Hour"
 permalink: /teaching/washu
