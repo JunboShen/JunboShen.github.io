@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biography
-======
+
 I am Junbo Shen, a final-year undergraduate majoring in Computer Science at Washington University in St. Louis, MO. I spent my freshman and sophomore years at the Chinese University of Hong Kong, HK.
 
 Research Interests
