@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a computer science major student. I have spent first 2 years at the Chinese University of Hong Kong (CUHK) and transferred to WashU to continue my undergraduate study. 
+Biography
+======
+I am Junbo Shen, a final-year undergraduate majoring in Computer Science at Washington University in St. Louis, MO. I spent my freshman and sophomore years at the Chinese University of Hong Kong, HK.
 
 Research Interests
 ======
 Deep Learning, Bioinformatics, AI for Healthcare.
 
-
-I have some experience in Machine learning. Beginning in 2022.6, I worked on a bioinformatics research project at CUHK that uses deep learning methods and pre-trained language models to analyze protein sequences and structures. The purpose of the project is to construct a predictor to identify proteins containing signal peptides (with 5 different types), a short peptide (usually 16-30 amino acids long) of most newly synthesized proteins that are destined toward the secretory pathway. Protein sequences can be described using strings of letters, according to the order of the amino acids. NLP methods can be applied to solve existing problems in bioinformatics and computational biology.
-
-I also did an interesting Summer Research Internship and student helper work at 2021. It's about smart & automated aquaponics system.[🟣](https://drive.google.com/file/d/1ueTK1Te-ViMV46YraC8PchIbfYLkWW8z/view?usp=sharing)
+Publications (*equal contribution, #corresponding)
+======
+Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model[Full text]
+J.Shen*, Q.Yu*, S.Chen*, Q.Tan, J.Li, Y.Li#  Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB)
 
 For more info
 ------
-Please feel free to contact me. 
+Please feel free to contact me via email.
