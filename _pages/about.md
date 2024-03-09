@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Junbo Shen, a final-year undergraduate majoring in Computer Science at Washington University in St. Louis, MO. I spent my freshman and sophomore years at the Chinese University of Hong Kong, HK.
+I am Junbo Shen, a final-year undergraduate majoring in Computer Science at Washington University in St. Louis, MO. I spent my freshman and sophomore years at The Chinese University of Hong Kong, HK.
+
+I am working on AI for Healthcare and Medicine, supervised by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/) at Washington University in St. Louis.
+
+I am working on AI4Science, developing machine learning methods to resolve computational problems in biology, supervised by [Prof. Yu Li](https://liyu95.com/) at The Chinese University of Hong Kong.
 
 Research Interests
 ======
