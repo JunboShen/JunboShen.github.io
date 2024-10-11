@@ -32,4 +32,4 @@ Nature Computational Science, 2023. [<span style="color:blue;">Full text </span>
 
 For more research experience
 ------
-Please check CV for ongoing research and papers in revision//submission/preparation.
+Please check CV for ongoing research and papers in revision/submission/preparation.
