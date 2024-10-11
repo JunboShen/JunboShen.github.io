@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[[CV by March 2024]](https://drive.google.com/file/d/1UIv1eu3kfOcAPRUgBmuET1rRmN5nCavd/view?usp=sharing)
+[[CV by 2024]](https://drive.google.com/file/d/1UIv1eu3kfOcAPRUgBmuET1rRmN5nCavd/view?usp=sharing)
