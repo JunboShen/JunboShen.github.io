@@ -23,7 +23,7 @@ I am working on AI for Healthcare and Medicine, focusing on EHR-based patient mo
 I am working on AI for Science, developing machine learning methods to resolve computational problems in biology, supervised by [Prof. Yu Li](https://liyu95.com/) at The Chinese University of Hong Kong.-->
 
 
-## 📝 Publications & Manuscripts
+## 📝 Publications & Manuscripts (*equal contribution, #corresponding)
 
 - [1] **USPNet: Unbiased Signal Peptide Predictor with Deep Protein Language Model**  
   *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*
