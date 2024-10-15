@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome!
-======
-
 I recently got my bachelor’s degree in Computer Science with Summa Cum Laude (highest distinction), at Washington University in St. Louis. I was fortunate to be part of [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/) led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/). Additionally, I have had the opportunity to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong, HK on AI4Bio, and published my first paper in a Nature Portfolio journal. I am also working in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at University of Washington, Seattle about generative AI in pathology and medical imaging.
 
 I am actively seeking a PhD position.
