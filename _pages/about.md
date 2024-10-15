@@ -29,19 +29,17 @@ I am working on AI for Science, developing machine learning methods to resolve c
 ## 📝 Publications & Manuscripts
 
 - [1] **USPNet: Unbiased Signal Peptide Predictor with Deep Protein Language Model**  
-  *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\# *
-  Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB)
+  *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\# * - Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB)
   
 - [2] **Predicting Postoperative Complications in Cardiac Surgery Using Generative Multi-Task Representation Learning**  
-  *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\# *
-  In Revision, JAMIA, 2024. [Code](https://github.com/ai4biomedicine/surgVAE)
+  *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\# * -
+  In Revision, Journal of the American Medical Informatics Association (JAMIA), 2024. [Code](https://github.com/ai4biomedicine/surgVAE)
   
 - [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   *Co-first Author, In Preparation, 2024+*
   
 - [4] **Deep Learning in Broadband Spectrum Reconstruction**  
-  *Bing Xue, Jinran Qie, Fu Li, Junbo Shen, Qian Zhang, Ruiqi Wang, Chenyang Lu, Lan Yang\# *
-  Submitted, IEEE ICASSP 2025. [Code](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
+  *Bing Xue, Jinran Qie, Fu Li, Junbo Shen, Qian Zhang, Ruiqi Wang, Chenyang Lu, Lan Yang\# * - Submitted, IEEE ICASSP 2025. [Code](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
 
 ## 🎖 Research Experience
 
