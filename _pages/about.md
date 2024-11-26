@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently got my bachelor’s degree in Computer Science with Summa Cum Laude (highest distinction), at Washington University in St. Louis. I was fortunate to be part of [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/) led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/). Additionally, I have had the opportunity to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong, HK, on AI4Bio, and published my first paper in a Nature Portfolio journal. I am also working in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at University of Washington, Seattle, about generative AI in pathology and medical imaging.
+I recently got my bachelor’s degree in Computer Science with Summa Cum Laude (highest distinction), at Washington University in St. Louis. I was fortunate to be part of [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/) led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/). Additionally, I have had the opportunity to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong, HK, on AI4Bio. I am also working in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at the University of Washington, Seattle, about AI4Pathology and medical imaging.
 
 I am actively seeking a PhD position.
 
@@ -21,19 +21,23 @@ AI for Science (developing machine learning methods to resolve computational pro
 I am working on AI for Healthcare and Medicine, focusing on EHR-based patient modeling and prediction, supervised by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/) at Washington University in St. Louis.
 
 I am working on AI for Science, developing machine learning methods to resolve computational problems in biology, supervised by [Prof. Yu Li](https://liyu95.com/) at The Chinese University of Hong Kong.-->
-
+## 🔥 News
+- 2024.11 Working on minor revision for the paper submitted to the Journal of the American Medical Informatics Association (JAMIA)
+- 2024.5 Received B.S. in Computer Science with Summa Cum Laude (GPA 3.98/4.00)
+- 2024.4 Received Outstanding Senior Award in the CSE department at WashU
+- 2023.12 Paper accepted by Nature Computational Science
 
 ## 📝 Publications & Manuscripts (*equal contribution, #corresponding)
 
-- [1] **USPNet: Unbiased Signal Peptide Predictor with Deep Protein Language Model**  
+- [1] **Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**  
   *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*
 
   Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB)
   
-- [2] **Predicting Postoperative Complications in Cardiac Surgery Using Generative Multi-Task Representation Learning**  
+- [2] **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
   *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*
 
-  In Revision, Journal of the American Medical Informatics Association (JAMIA), 2024. [Code](https://github.com/ai4biomedicine/surgVAE)
+  In Minor Revision, Journal of the American Medical Informatics Association (JAMIA), 2024. [Code](https://github.com/ai4biomedicine/surgVAE)
   
 - [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   *Co-first Author, In Preparation, 2024+*
