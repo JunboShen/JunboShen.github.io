@@ -32,7 +32,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 - [1] **Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**  
   *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*
 
-  Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB)
+  Nature Computational Science, 2023. [Full text](https://rdcu.be/dtupB) [Code](https://github.com/ml4bio/USPNet)
   
 - [2] **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
   *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*
@@ -40,7 +40,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
   In Minor Revision, Journal of the American Medical Informatics Association (JAMIA), 2024. [Code](https://github.com/ai4biomedicine/surgVAE)
   
 - [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
-  *Co-first Author, In Preparation, 2024+*
+  *Co-first Author, In Preparation, 2024+* 
   
 - [4] **Deep Learning in Broadband Spectrum Reconstruction**  
   *Bing Xue, Jinran Qie, Fu Li, Junbo Shen, Qian Zhang, Ruiqi Wang, Chenyang Lu, Lan Yang\#*
