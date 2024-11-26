@@ -2,7 +2,7 @@
 title: "CSE412A"
 collection: teaching
 type: "Teaching Assistant: Grading, Office Hour"
-permalink: /teaching/washu
+permalink: /teaching/washu2
 venue: "Washington University in St. Louis"
 date: 2023-08-01
 location: "St. Louis, MO"
