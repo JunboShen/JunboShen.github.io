@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assistant"
+title: "CSE412A"
 collection: teaching
-type: "Grading, Office Hour"
+type: "Teaching Assistant: Grading, Office Hour"
 permalink: /teaching/washu
 venue: "Washington University in St. Louis"
 date: 2023-08-01
 location: "St. Louis, MO"
 ---
 
-CSE412A, Introduction to Artificial Intelligence
+CSE412A: Introduction to Artificial Intelligence
 
 
 Aug. 2023 -- Dec.2023
