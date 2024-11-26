@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assistant"
+title: "CSE514A"
 collection: teaching
-type: "Grading, Office Hour"
+type: "Teaching Assistant: Grading, Office Hour"
 permalink: /teaching/washu
 venue: "Washington University in St. Louis"
 date: 2024-01-01
 location: "St. Louis, MO"
 ---
 
-CSE514A, Data Mining
+CSE514A: Data Mining
 
 
 Jan. 2024 -- May. 2024
