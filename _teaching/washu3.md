@@ -2,7 +2,7 @@
 title: "CSE442T"
 collection: teaching
 type: "Teaching Assistant: Grading, Office Hour"
-permalink: /teaching/washu
+permalink: /teaching/washu3
 venue: "Washington University in St. Louis"
 date: 2023-01-01
 location: "St. Louis, MO"
