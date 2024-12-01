@@ -37,7 +37,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 - [2] **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
   *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*
 
-  In Minor Revision, Journal of the American Medical Informatics Association (JAMIA), 2024. [Draft](https://drive.google.com/file/d/1BP76zs3pP70HxNDIw5IVNsPfohKfD5dj/view?usp=sharing)[Code](https://github.com/ai4biomedicine/surgVAE)
+  In Minor Revision, Journal of the American Medical Informatics Association (JAMIA), 2024. [Draft](https://drive.google.com/file/d/1BP76zs3pP70HxNDIw5IVNsPfohKfD5dj/view?usp=sharing) [Code](https://github.com/ai4biomedicine/surgVAE)
   
 - [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   *Co-first Author, In Preparation, 2024+* [Prior Draft](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
