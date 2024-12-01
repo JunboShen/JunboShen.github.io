@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[[CV]](https://drive.google.com/file/d/1UIv1eu3kfOcAPRUgBmuET1rRmN5nCavd/view?usp=sharing)
 
 I recently got my bachelor’s degree in Computer Science with Summa Cum Laude (highest distinction), at Washington University in St. Louis. I was fortunate to be part of [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/) led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/). Additionally, I have had the opportunity to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong, HK, on AI4Bio. I am also working in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at the University of Washington, Seattle, about AI4Pathology and medical imaging.
 
-I am actively seeking a PhD position.
+I am actively seeking a PhD position. [[CV]](https://drive.google.com/file/d/1UIv1eu3kfOcAPRUgBmuET1rRmN5nCavd/view?usp=sharing)
 
 Research Interests
 ------
