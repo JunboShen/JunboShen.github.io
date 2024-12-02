@@ -45,7 +45,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 - [4] **Deep Learning in Broadband Spectrum Reconstruction**  
   *Bing Xue, Jinran Qie, Fu Li, Junbo Shen, Qian Zhang, Ruiqi Wang, Chenyang Lu, Lan Yang\#*
 
-  Submitted, IEEE ICASSP 2025. [Code](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
+  Submitted, IEEE ICASSP 2025. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
 
 ## 🎖 Research Experience
 
