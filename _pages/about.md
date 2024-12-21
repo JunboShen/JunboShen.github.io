@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently got my bachelor’s degree in Computer Science with Summa Cum Laude (highest distinction), at Washington University in St. Louis. I was fortunate to be part of [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/) led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/). Additionally, I have had the opportunity to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong, HK, on AI4Bio. I am also working in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at the University of Washington, Seattle, about AI4Pathology and medical imaging.
+I recently got my bachelor’s degree in Computer Science with Summa Cum Laude, at Washington University. I was fortunate to be part of [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/) led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/). Additionally, I have had the opportunity to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong, HK, on AI4Bio. I am also working in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at the University of Washington, Seattle, about AI4Pathology and medical imaging.
 
 I am actively seeking a PhD position. [[CV]](https://drive.google.com/file/d/1UIv1eu3kfOcAPRUgBmuET1rRmN5nCavd/view?usp=sharing)
 
@@ -39,10 +39,6 @@ I am working on AI for Science, developing machine learning methods to resolve c
   
 - [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   Co-first Author, **In Preparation**, 2024+. [[Paper]](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
-  
-- [4] **Deep Learning in Broadband Spectrum Reconstruction**  
-  *Bing Xue, Jinran Qie, Fu Li, Junbo Shen, Qian Zhang, Ruiqi Wang, Chenyang Lu, Lan Yang\#*
-  Submitted, IEEE ICASSP 2025. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
 
 ## 🎖 Research Experience
 
@@ -70,7 +66,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 **Deep Learning in Broadband Spectrum Reconstruction**  
 *Supervised by Prof. Chenyang Lu*  
 2023.02 - 2024.01  
-- Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. 
+- Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
   
 ## 🎓 Education
 
