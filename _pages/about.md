@@ -22,10 +22,10 @@ I am working on AI for Healthcare and Medicine, focusing on EHR-based patient mo
 
 I am working on AI for Science, developing machine learning methods to resolve computational problems in biology, supervised by [Prof. Yu Li](https://liyu95.com/) at The Chinese University of Hong Kong.-->
 ## 🔥 News
-- 2024.12 Paper **accepted** by the Journal of the American Medical Informatics Association (JAMIA)
+- 2024.12 "A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients" **accepted** by [Journal of the American Medical Informatics Association (JAMIA)](https://academic.oup.com/jamia)
 - 2024.5 Received B.S. in Computer Science with Summa Cum Laude (GPA 3.98/4.00)
-- 2024.4 Received Outstanding Senior Award in the CSE department at WashU
-- 2023.12 Paper **accepted** by Nature Computational Science
+- 2024.4 Received Outstanding Senior Award in the CSE dept. at WashU
+- 2023.12 "Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model" **accepted** by [Nature Computational Science](https://www.nature.com/natcomputsci)
 
 ## 📝 Publications & Manuscripts (*equal contribution, #corresponding)
 
@@ -35,7 +35,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
   
 - [2] **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
   *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*
-  **Accepted, Journal of the American Medical Informatics Association (JAMIA)**, 2024. [[Paper]](https://arxiv.org/abs/2412.01950) [[Code]](https://github.com/ai4biomedicine/surgVAE)
+  **Accepted, Journal of the American Medical Informatics Association (JAMIA)**, 2024. arXiv: 2412.01950. [[Paper]](https://drive.google.com/file/d/1BP76zs3pP70HxNDIw5IVNsPfohKfD5dj/view?usp=sharing) [[Arxiv]](https://arxiv.org/abs/2412.01950) [[Code]](https://github.com/ai4biomedicine/surgVAE)
   
 - [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   Co-first Author, **In Preparation**, 2024+. [[Paper]](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
