@@ -27,7 +27,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 - 2024.4 Received Outstanding Senior Award at WashU McKelvey School of Engineering
 - 2023.12 "Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model" **accepted** by [Nature Computational Science](https://www.nature.com/natcomputsci)
 
-## 📝 Publications & Manuscripts (first/co-first authorship only)
+## 📝 Selected Publications & Manuscripts (first/co-first authorship)
 
 - **Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**  
   *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*
