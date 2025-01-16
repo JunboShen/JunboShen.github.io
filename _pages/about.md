@@ -29,15 +29,15 @@ I am working on AI for Science, developing machine learning methods to resolve c
 
 ## 📝 Publications & Manuscripts (first/co-first authorship only)
 
-- [1] **Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**  
+- **Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**  
   *Junbo Shen\*, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*
   **Nature Computational Science**, 2023. [[Paper]](https://rdcu.be/dtupB) [[Code]](https://github.com/ml4bio/USPNet)
   
-- [2] **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
+- **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
   *Junbo Shen, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*
   **Journal of the American Medical Informatics Association (JAMIA)**, 2024. [[Paper]](https://doi.org/10.1093/jamia/ocae316) [[Preprint]](https://drive.google.com/file/d/1BP76zs3pP70HxNDIw5IVNsPfohKfD5dj/view?usp=sharing) [[Code]](https://github.com/ai4biomedicine/surgVAE)
   
-- [3] **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
+- **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   Co-first Author, **In Preparation**, 2024+. [[Paper]](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
 
 **equal contribution, #corresponding*
@@ -64,9 +64,9 @@ I am working on AI for Science, developing machine learning methods to resolve c
 2024.06 - Present  
 - Working on generative AI in pathology and medical imaging.
 
-**Deep Learning in Broadband Spectrum Reconstruction**  
+**Deep Learning in Broadband Spectrum Reconstruction** 
 *Supervised by Prof. Chenyang Lu*  
-2023.02 - 2024.01  
+2023.02 - 2024.01 (submitted to International Joint Conference on Artificial Intelligence (IJCAI) 2025)
 - Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
   
 ## 🎓 Education
