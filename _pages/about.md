@@ -64,7 +64,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 2024.06 - Present  
 - Working on generative AI in pathology and medical imaging.
 
-**Cov2Seq: A deep learning framework for hyperspectral imaging (submitted to IJCAI 2025)** 
+**Cov2Seq: A deep learning framework for hyperspectral imaging (submitted to IJCAI 2025)**  
 *Supervised by Prof. Chenyang Lu*  
 2023.02 - 2024.01 
 - Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
