@@ -38,8 +38,9 @@ I am working on AI for Science, developing machine learning methods to resolve c
   **Journal of the American Medical Informatics Association (JAMIA)**, 2024. [[Paper]](https://doi.org/10.1093/jamia/ocae316) [[Preprint]](https://drive.google.com/file/d/1BP76zs3pP70HxNDIw5IVNsPfohKfD5dj/view?usp=sharing) [[Code]](https://github.com/ai4biomedicine/surgVAE)
   
 - **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
-  Co-first Author, **In Preparation**, 2024+. [[Paper]](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
-
+  Co-first Author, **In Preparation**, 2025+. [[Paper]](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
+  
+(* equal contribution)
 ## 🎖 Research Experience
 
 **Unbiased Signal Peptide Prediction with Deep Protein Language Model**  
@@ -63,7 +64,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 2024.06 - Present  
 - Working on generative AI in pathology and medical imaging.
 
-**Cov2Seq: A deep learning framework for hyperspectral imaging (submitted to IJCAI 2025)**  
+**Cov2Seq: A deep learning framework for hyperspectral imaging (<ins>submitted to IJCAI 2025</ins>)**  
 *Supervised by Prof. Chenyang Lu*  
 2023.02 - 2024.01 
 - Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
