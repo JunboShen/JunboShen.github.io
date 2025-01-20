@@ -30,11 +30,11 @@ I am working on AI for Science, developing machine learning methods to resolve c
 ## 📝 Selected Publications & Manuscripts (first/co-first authorship)
 
 - **Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**  
-  *<ins>Junbo Shen\*</ins>, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*
+  *<ins>Junbo Shen\*</ins>, Qinze Yu\*, Shenyang Chen\*, Qingxiong Tan, Jingchen Li, Yu Li\#*  
   **Nature Computational Science**, 2023. [[Paper]](https://rdcu.be/dtupB) [[Code]](https://github.com/ml4bio/USPNet)
   
 - **A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients**  
-  *<ins>Junbo Shen</ins>, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*
+  *<ins>Junbo Shen</ins>, Bing Xue, Thomas Kannampallil, Chenyang Lu, Joanna Abraham\#*  
   **Journal of the American Medical Informatics Association (JAMIA)**, 2024. [[Paper]](https://doi.org/10.1093/jamia/ocae316) [[Preprint]](https://drive.google.com/file/d/1BP76zs3pP70HxNDIw5IVNsPfohKfD5dj/view?usp=sharing) [[Code]](https://github.com/ai4biomedicine/surgVAE)
   
 - **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
