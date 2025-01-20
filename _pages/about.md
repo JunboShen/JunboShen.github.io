@@ -40,7 +40,6 @@ I am working on AI for Science, developing machine learning methods to resolve c
 - **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
   Co-first Author, **In Preparation**, 2024+. [[Paper]](https://drive.google.com/file/d/1pijd_zWJxynh5Vk4OZhc9D8aWJFbuMGk/view?usp=sharing)
 
-**equal contribution, #corresponding*
 ## 🎖 Research Experience
 
 **Unbiased Signal Peptide Prediction with Deep Protein Language Model**  
