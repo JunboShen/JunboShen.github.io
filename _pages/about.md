@@ -14,7 +14,7 @@ I am actively seeking a PhD position. [[CV]](https://drive.google.com/file/d/1UI
 
 Research Interests
 ------
-AI4Science, using ML and generative AI methods to solve biomedical problems.
+Using ML and generative AI methods to solve biomedical problems.
 
 <!--
 AI for Science (developing machine learning methods to resolve computational problems in biology), AI for Healthcare (EHR-based patient modeling and prediction, etc.)
