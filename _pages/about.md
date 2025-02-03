@@ -57,12 +57,12 @@ I am working on AI for Science, developing machine learning methods to resolve c
 **Deep Learning Predicts Synergy Effect of Antibacterial Drug Combinations**  
 *Supervised by Prof. Yu Li*  
 2023.09 - Present  
-- Predicting the synergy effects of drug combinations leveraging recent advances of foundation models in science.
+- Predicting the synergy effects of drug combinations on bacterial strains leveraging Genomic LLMs, GNNs for drug SMILEs, etc., for better interpretability. 
 
 **AI for Computational Pathology**  
 *Supervised by Prof. Sheng Wang*  
 2024.06 - Present  
-- Working on generative AI in pathology and medical imaging.
+- Working on foundation models for Whole Slide Images (WSIs) in pathology, and medical imaging.
 
 **Deep learning in broadband spectrum reconstruction from crystal responses**  
 *Supervised by Prof. Chenyang Lu*  
