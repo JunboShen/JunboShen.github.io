@@ -14,7 +14,9 @@ I am actively seeking a PhD position. [[Updated CV]](https://drive.google.com/fi
 
 Research Interests
 ------
-Using ML and generative AI methods to solve biomedical problems.
+- AI for Healthcare
+- Computational Biology and Drug Discovery
+- LLMs & Foundation Models in Biomedicine
 
 <!--
 AI for Science (developing machine learning methods to resolve computational problems in biology), AI for Healthcare (EHR-based patient modeling and prediction, etc.)
