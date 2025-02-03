@@ -62,7 +62,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 **AI for Computational Pathology**  
 *Supervised by Prof. Sheng Wang*  
 2024.06 - Present  
-- Working on foundation models for Whole Slide Images (WSIs) in pathology, and medical imaging.
+- Working on pertaining foundation models for Whole Slide Images (WSIs) in pathology, and medical imaging.
 
 **Deep learning in broadband spectrum reconstruction from crystal responses**  
 *Supervised by Prof. Chenyang Lu*  
