@@ -68,7 +68,12 @@ I am working on AI for Science, developing machine learning methods to resolve c
 *Supervised by Prof. Chenyang Lu*  
 2023.02 - 2024.01 
 - Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
-  
+
+**Antimicrobial resistance prediction**  
+*Supervised by Prof. Yu Li*  
+2024.10 - Present  
+- Antimicrobial resistance prediction leveraging Genomic LLMs and Multiple Instance Learning.
+
 ## 🎓 Education
 
 **Washington University in St. Louis, MO, USA**  
