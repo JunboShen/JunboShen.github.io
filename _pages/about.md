@@ -79,11 +79,11 @@ I am working on AI for Science, developing machine learning methods to resolve c
 **Washington University in St. Louis, MO, USA**  
 *B.S. in Computer Science, Summa Cum Laude*  
 2022.08 - 2024.05  
-- Selected Honors: Outstanding Senior Award, Dean’s Lists, Tau Beta Pi Selected Member  
+- Selected Honors: Outstanding Senior Award (Awarded to 2 seniors at WashU CSE dept.), Dean’s Lists, Tau Beta Pi Selected Member  
 
 **Chinese University of Hong Kong, Hong Kong**  
 *Major in Computer Science, ELITE Stream (Transferred to Washington University)*  
 2020.09 - 2022.06  
-- Selected Honors: Academic Excellence Scholarship, ELITE Stream Scholarship, Dean’s List (Top 10%)  
+- Selected Honors: Academic Excellence Scholarship (Top Year GPA at each dept.), ELITE Stream Scholarship, Dean’s List (Top 10%)  
 
 
