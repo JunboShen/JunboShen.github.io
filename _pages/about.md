@@ -72,7 +72,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 **Antimicrobial resistance prediction**  
 *Supervised by Prof. Yu Li*  
 2024.10 - Present  
-- Antimicrobial resistance prediction leveraging Genomic LLMs and Multiple Instance Learning.
+- Antimicrobial resistance prediction leveraging Genomic LLMs and multi-instance learning.
 
 ## 🎓 Education
 
