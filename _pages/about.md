@@ -19,11 +19,7 @@ Research Interests
 - LLMs & Foundation Models in Biomedicine
   
 Encompassing efforts to enhance the transparency and explainability of AI in biomedical applications, and address biases and robustness challenges stemming from issues like subpopulation shifts in healthcare.
-<!--
-AI for Science (developing machine learning methods to resolve computational problems in biology), AI for Healthcare (EHR-based patient modeling and prediction, etc.)
-I am working on AI for Healthcare and Medicine, focusing on EHR-based patient modeling and prediction, supervised by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/) at Washington University in St. Louis.
 
-I am working on AI for Science, developing machine learning methods to resolve computational problems in biology, supervised by [Prof. Yu Li](https://liyu95.com/) at The Chinese University of Hong Kong.-->
 ## 🔥 News
 - 2024.12 "A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients" **accepted** by [Journal of the American Medical Informatics Association (JAMIA)](https://academic.oup.com/jamia)
 - 2024.5 Received B.S. in Computer Science with Summa Cum Laude (GPA 3.98/4.00)
