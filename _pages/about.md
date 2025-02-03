@@ -64,7 +64,7 @@ I am working on AI for Science, developing machine learning methods to resolve c
 2024.06 - Present  
 - Working on pretraining foundation models for Whole Slide Images (WSIs) in pathology, and medical imaging.
 
-**Deep learning in broadband spectrum reconstruction from crystal responses**  
+**Deep learning in broadband spectrum reconstruction (<ins>Submitted to KDD 2025</ins>)**  
 *Supervised by Prof. Chenyang Lu*  
 2023.02 - 2024.01 
 - Optical attention-based conv2seq architecture for spectrum reconstruction, achieving near-perfect spectral imaging recovery from crystal responses. [[Code]](https://github.com/JunboShen/spectrum_reconstruction_with_noise)
