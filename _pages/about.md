@@ -80,7 +80,7 @@ Encompassing efforts to enhance the transparency and explainability of AI in bio
 2022.08 - 2024.05  
 - Selected Honors: Outstanding Senior Award (Awarded to 2 seniors at WashU CSE dept.), Dean’s Lists, Tau Beta Pi Selected Member  
 
-**Chinese University of Hong Kong, Hong Kong, China**  
+**Chinese University of Hong Kong, HK, China**  
 *Major in Computer Science, ELITE Stream (Transferred to Washington University)*  
 2020.09 - 2022.06  
 - Selected Honors: Academic Excellence Scholarship (Top Year GPA at each dept.), ELITE Stream Scholarship, Dean’s List (Top 10%)  
