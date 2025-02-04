@@ -16,7 +16,7 @@ Research Interests
 ------
 - AI for Healthcare
 - Computational Biology and Drug Discovery
-- LLMs & Foundation Models in Biomedicine
+- LLMs & Foundation Models in Biology & Medicine
   
 Encompassing efforts to enhance the transparency and explainability of AI in biomedical applications, and address biases and robustness challenges stemming from issues like subpopulation shifts in healthcare.
 
