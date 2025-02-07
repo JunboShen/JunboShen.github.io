@@ -14,7 +14,6 @@ I am actively seeking a PhD position. [[Updated CV]](https://drive.google.com/fi
 
 Research Interests
 ------
-- AI for Healthcare
 - Computational Biology and Drug Discovery
 - LLMs & Foundation Models in Biology & Medicine
   
