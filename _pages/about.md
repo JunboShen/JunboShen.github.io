@@ -17,7 +17,7 @@ Research Interests
 - Computational Biology and Drug Discovery
 - LLMs & Foundation Models in Biology & Medicine
   
-Encompassing efforts to enhance the transparency and explainability of AI for Biology & Medicine, and address biases and robustness challenges stemming from issues like subpopulation shifts in healthcare.
+Encompassing efforts to enhance the transparency and explainability of AI for Biology & Medicine.
 
 ## 🔥 News
 - 2024.12 "A Novel Generative Multi-Task Representation Learning Approach for Predicting Postoperative Complications in Cardiac Surgery Patients" **accepted** by [Journal of the American Medical Informatics Association (JAMIA)](https://academic.oup.com/jamia)
