@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated *summa cum laude* with B.S. in Computer Science from Washington University. During my undergraduate studies, I conducted research at the [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/), led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/), and collaborated with [Prof. Joanna Abraham](https://abrahamlab.wustl.edu/) at WashU Medicine. I was fortunate to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong for several projects on AI4Bio. And I worked in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at the University of Washington.
+I recently graduated *summa cum laude* with B.S. in Computer Science from Washington University. During my undergraduate studies, I conducted research at the [<span style="color:purple;">AI for Health Institute (AIHealth) </span>](https://aihealth.wustl.edu/leadership/), led by [Prof. Chenyang Lu](https://www.cse.wustl.edu/~lu/), and collaborated with [Prof. Joanna Abraham](https://abrahamlab.wustl.edu/) at WashU Medicine. I was fortunate to work closely with [Prof. Yu Li](https://liyu95.com/) at Chinese University of Hong Kong for several projects on AI4BIO. And I worked in [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/)'s group at the University of Washington.
 
 I am actively seeking a PhD position. [[Updated CV]](https://drive.google.com/file/d/1UIv1eu3kfOcAPRUgBmuET1rRmN5nCavd/view?usp=sharing)
 
