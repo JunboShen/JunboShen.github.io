@@ -70,9 +70,6 @@ Encompassing efforts to enhance the transparency and explainability of AI for Bi
 **Antimicrobial resistance prediction**  
 *Supervised by Prof. Yu Li*  
 2024.10 - Present  
-<!---
-- Antimicrobial resistance prediction leveraging Genomic LLMs and multi-instance learning.
--->
 
 ## 🎓 Education
 
